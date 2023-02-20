@@ -1,6 +1,6 @@
 🌱 I’m currently learning Go to work my way up as a back-end developer.
 
-   Blockchain world always fascinates me, I'll be glad to take part in related projects.
+🌱 Blockchain world always fascinates me, I'll be glad to take part in related projects.
    
 
 <!--
