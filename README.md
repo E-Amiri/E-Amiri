@@ -9,6 +9,7 @@
 
 <br>
 
+![Ehsan's github stats](https://github-readme-stats.vercel.app/api?username=E-Amiri&show_icons=true&theme=dark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Amiri&theme=dark&layout=compact)](https://github.com/E-Amiri/E-Amiri)
 
 <br>
