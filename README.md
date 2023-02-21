@@ -2,8 +2,10 @@
 
 :metal: Blockchain world always fascinates me, I'll be glad to take part in related projects.
 
-<body style="background-color:powderblue;">
-
+<br>
+<body style="background-color:#292138;">
+<br>
+  
 <br>
 <a href="https://www.linkedin.com/in/e-amiri/" target="_blank"><img alt="LinkedIn" src="https://github.com/E-Amiri/E-Amiri/blob/main/LinkedIn-v2.png" width="35"></a><a href="https://www.instagram.com/ehsan.9891" target="_blank"><img alt="Instagram" src="https://github.com/E-Amiri/E-Amiri/blob/main/Instagram-v2.png" width="35"></a>
 <br>
