@@ -9,6 +9,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Amiri&theme=graywhite&layout=compact)](https://github.com/E-Amiri/E-Amiri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Amiri&theme=dark&layout=compact)](https://github.com/E-Amiri/E-Amiri)
 
 <br>
