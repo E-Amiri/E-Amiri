@@ -8,7 +8,9 @@
 
 <br>
 
-![Ehsan's github stats](https://github-readme-stats.vercel.app/api?username=ehsan-amiri-code&show_icons=true&theme=gotham) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamepp&theme=gotham&layout=compact)](https://github.com/ehsan-amiri-code/ehsan-amiri-code)
+With over 8 years of experience in Software development, I am a Software Engineer passionate for Software design & Architecture (specially DDD, CQRS, Event Sourcing & Microservices) and Agile practices such as TDD and BDD with an in depth knowledge of OOP, Design Patterns and SOLID Principles.
 
+#### Find me around the web :
+
+<a href="https://www.linkedin.com/in/ehsan-amiri-9924419a/" target="_blank"><img alt="LinkedIn" src="https://github.com/hamed-shirbandi/hamed-shirbandi/blob/main/docs/LinkedIn-v2.png" width="35"></a><a href="https://www.instagram.com/ehsan.9891" target="_blank"><img alt="Instagram" src="https://github.com/hamed-shirbandi/hamed-shirbandi/blob/main/docs/Instagram-v2.png" width="35"></a>
 <br>
