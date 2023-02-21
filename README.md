@@ -12,5 +12,5 @@ With over 8 years of experience in Software development, I am a Software Enginee
 
 #### Find me around the web :
 
-<a href="https://www.linkedin.com/in/ehsan-amiri-9924419a/" target="_blank"><img alt="LinkedIn" src="https://github.com/hamed-shirbandi/hamed-shirbandi/blob/main/docs/LinkedIn-v2.png" width="35"></a><a href="https://www.instagram.com/ehsan.9891" target="_blank"><img alt="Instagram" src="https://github.com/hamed-shirbandi/hamed-shirbandi/blob/main/docs/Instagram-v2.png" width="35"></a>
+<a href="https://www.linkedin.com/in/ehsan-amiri-9924419a/" target="_blank"><img alt="LinkedIn" src="https://github.com/E-Amiri/E-Amiri/blob/main/LinkedIn-v2.png" width="35"></a><a href="https://www.instagram.com/ehsan.9891" target="_blank"><img alt="Instagram" src="https://github.com/E-Amiri/E-Amiri/blob/main/Instagram-v2.png" width="35"></a>
 <br>
