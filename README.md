@@ -6,6 +6,10 @@
 <a href="https://www.linkedin.com/in/e-amiri/" target="_blank"><img alt="LinkedIn" src="https://github.com/E-Amiri/E-Amiri/blob/main/LinkedIn-v2.png" width="35"></a><a href="https://www.instagram.com/ehsan.9891" target="_blank"><img alt="Instagram" src="https://github.com/E-Amiri/E-Amiri/blob/main/Instagram-v2.png" width="35"></a>
 <br>
 
+<br>
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=gotham) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamepp&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp)
+<br>
 <!--
 **ehsan-amiri-code/ehsan-amiri-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
